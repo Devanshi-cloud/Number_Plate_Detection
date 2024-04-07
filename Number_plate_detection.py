@@ -4,7 +4,7 @@ import numpy as np
 frameWidth = 640    #Frame Width
 franeHeight = 480   # Frame Height
 
-plateCascade = cv2.CascadeClassifier("haarcascade_russian_plate_number.xml")
+plateCascade = cv2.CascadeClassifier("Sentinel_number_plate.xml")
 minArea = 500
 
 cap =cv2.VideoCapture(0)
