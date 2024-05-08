@@ -5,10 +5,3 @@
 
 -> https://trailblazersaiml.netlify.app/
 
-**Contributers**
-Protyoya Datta
-Devanshi Jaiswal
-Karan
-Naval Bihani
-Jiya Panwar
-
